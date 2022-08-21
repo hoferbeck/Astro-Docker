@@ -1,3 +1,3 @@
 FROM node:current-alpine3.16
 
-RUN npm version
+RUN npm install astro
